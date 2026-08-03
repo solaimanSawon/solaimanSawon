@@ -1,17 +1,49 @@
 # Hi there, I'm Solaiman Sawon 👋
 
-### 👨‍💻 Full-Stack Developer | Problem Solver | Tech Enthusiast
+## 👨‍💻 About Me
 
-A passionate developer focused on building scalable web applications, mastering modern technologies, and solving complex problems.
+I'm a passionate **Full-Stack Web Application Developer** dedicated to building modern, scalable, and secure web applications. I work across the full stack — **React, TypeScript, JavaScript** on the frontend, and **Node.js, Express, MongoDB, PHP, C#** on the backend — with a strong interest in clean code architecture and algorithmic problem solving in **C++**.
+
+What drives me isn't just writing code — it's architecting systems that are maintainable, performant, and solve real-world problems smoothly. From implementing secure authentication and dynamic fare calculation algorithms to designing responsive user interfaces, I focus on delivering seamless digital experiences.
+
+* 🛰️ **Currently building:** Scalable full-stack MERN & TypeScript applications
+* 📚 **Learning:** Advanced System Design, Backend Optimization, & Docker
+* 🤝 **Open to:** Full-Stack Developer roles, Junior Software Engineer positions, & Freelance projects
+* 📍 **Based in:** Dhaka, Bangladesh
 
 ---
 
-## 🚀 About Me
+## 🏆 Featured Projects
 
-- 🔭 **Currently working on:** Full-Stack MERN Applications & TypeScript projects.
-- 🌱 **Learning & Exploring:** Advanced Backend Systems & Software Architecture.
-- 💻 **Core Expertise:** Web Development (MERN, PHP, C#) & Competitive Problem Solving (C++).
-- ⚡ **Goal:** Building impactful and high-performance software solutions.
+### 🚖 Uber Application — Ride-Sharing Web Platform
+**Live:** [uber-app-pearl.vercel.app](https://uber-app-pearl.vercel.app)  
+**Repository:** [github.com/solaimanSawon/Uber_App](https://github.com/solaimanSawon/Uber_App)
+
+A full-stack web application mimicking core ride-sharing functionality with user/captain interactions, location searching, and live trip logic.
+
+**Highlights:**
+* **Dual-Role Authentication:** Role-Based Access Control (RBAC) for Users and Captains powered by JWT & Bcrypt.
+* **Fare & Location System:** Dynamic ride fare calculation based on distance and vehicle categories (Car, Auto, Moto).
+* **Protected Routes & State:** Secure client-side routing with context-driven state management in React.
+* **Production Deployment:** Frontend hosted on Vercel, REST API backend deployed on Render with MongoDB Atlas.
+
+---
+
+### 🛒 SwiftCart — E-Commerce Web Platform
+**Repository:** [github.com/solaimanSawon/SwiftCart](https://github.com/solaimanSawon/SwiftCart)
+
+An e-commerce web platform engineered for seamless product catalog navigation and interactive cart workflows.
+
+**Highlights:**
+* Responsive mobile-first UI with modern product filtering and search capabilities.
+* Modular frontend state architecture for dynamic shopping cart operations.
+
+---
+
+### 🎓 TeachSmart — Educational Management System
+**Repository:** [github.com/solaimanSawon/teachSmart_In_PHP](https://github.com/solaimanSawon/teachSmart_In_PHP)
+
+An educational management platform developed using PHP & MySQL for handling student and course administration workflows.
 
 ---
 
@@ -35,16 +67,6 @@ A passionate developer focused on building scalable web applications, mastering 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/-Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-
----
-
-## 📌 Featured Projects
-
-- 🚖 **[Uber Application](https://github.com/solaimanSawon/Uber_App)** — Full-stack MERN ride-sharing app with JWT authentication, dynamic fare estimation, and live deployment on Vercel & Render.
-- 🌐 **[Portfolio](https://github.com/solaimanSawon/Portfolio)** — Personal portfolio website built using TypeScript.
-- 🛒 **[SwiftCart](https://github.com/solaimanSawon/SwiftCart)** — E-commerce web platform implementation.
-- 🎓 **[TeachSmart](https://github.com/solaimanSawon/teachSmart_In_PHP)** — Management and educational platform developed with PHP.
-- 🧩 **[Problem Solving](https://github.com/solaimanSawon/Problem_Solving)** — Algorithm and Data Structures solutions in C++.
 
 ---
 
